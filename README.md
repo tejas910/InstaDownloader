@@ -1,5 +1,5 @@
 # InstaDownloader
-![WhatsApp Image 2021-11-06 at 11 33 01 (2)](https://user-images.githubusercontent.com/58764738/140599961-acd4c2a0-61b7-4a95-a48b-a319edec6330.jpeg)
+![WhatsApp Image 2021-11-06 at 11 33 01 (2)](https://user-images.githubusercontent.com/58764738/140599961-acd4c2a0-61b7-4a95-a48b-a319edec6330.jpeg | width 100)
 <br>
 <br>
 <br>
